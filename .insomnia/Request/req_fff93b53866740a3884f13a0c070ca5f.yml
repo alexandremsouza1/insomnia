@@ -1,0 +1,54 @@
+_id: req_fff93b53866740a3884f13a0c070ca5f
+type: Request
+parentId: wrk_5daeab26c02b4e49830721e89570c6d6
+modified: 1652723218029
+created: 1652723183576
+url: https://www.centraldamarcasuzano.com.br/auth/saml/module.php/core/authenticate.php
+name: My Request
+description: ""
+method: GET
+body: {}
+parameters:
+  - name: as
+    value: default-sp
+    disabled: false
+headers:
+  - name: Accept
+    value: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+  - name: Accept-Language
+    value: pt-BR,pt;q=0.9
+  - name: Cache-Control
+    value: max-age=0
+  - name: Connection
+    value: keep-alive
+  - name: Cookie
+    value: PHPSESSID=978525e664208a6872a418508dedf707;
+      SimpleSAMLAuthToken=_76f8932dc16334be1d2d778efe134bbfdf975c165d
+  - name: Referer
+    value: https://sts.suzano.com.br/
+  - name: Sec-Fetch-Dest
+    value: document
+  - name: Sec-Fetch-Mode
+    value: navigate
+  - name: Sec-Fetch-Site
+    value: cross-site
+  - name: Upgrade-Insecure-Requests
+    value: "1"
+  - name: User-Agent
+    value: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko)
+      Chrome/100.0.4896.127 Safari/537.36
+  - name: sec-ch-ua
+    value: '" Not A;Brand";v="99", "Chromium";v="100", "Google Chrome";v="100"'
+  - name: sec-ch-ua-mobile
+    value: ?0
+  - name: sec-ch-ua-platform
+    value: '"Linux"'
+authentication: {}
+metaSortKey: -1652723183576
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

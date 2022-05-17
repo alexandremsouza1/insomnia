@@ -1,0 +1,51 @@
+_id: req_0d0dca6e537945bdb82795bafd41f584
+type: Request
+parentId: wrk_5daeab26c02b4e49830721e89570c6d6
+modified: 1652804032209
+created: 1652804030379
+url: https://www.centraldamarcasuzano.com.br/painel/wp-json/api/general
+name: Request4
+description: ""
+method: GET
+body: {}
+parameters:
+  - name: lang
+    value: pt
+    disabled: false
+headers:
+  - name: Accept
+    value: "*/*"
+  - name: Accept-Language
+    value: pt-BR,pt;q=0.9
+  - name: Connection
+    value: keep-alive
+  - name: Cookie
+    value: qtrans_front_language=pb; PHPSESSID=123a1c3a7368b9c4056a22ea9bdfd636;
+      SimpleSAMLAuthToken=_fdab49a9c468506e2fd6d2fdb14ec9fb02e0791937;
+      insuzanobc_user=%7B%22user_email%22%3A%22mariamoreira.mobiup%40suzano.com.br%22%2C%22user_type%22%3A%22colaborador%22%7D
+  - name: Referer
+    value: https://www.centraldamarcasuzano.com.br/pt
+  - name: Sec-Fetch-Dest
+    value: empty
+  - name: Sec-Fetch-Mode
+    value: cors
+  - name: Sec-Fetch-Site
+    value: same-origin
+  - name: User-Agent
+    value: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko)
+      Chrome/100.0.4896.127 Safari/537.36
+  - name: sec-ch-ua
+    value: '" Not A;Brand";v="99", "Chromium";v="100", "Google Chrome";v="100"'
+  - name: sec-ch-ua-mobile
+    value: ?0
+  - name: sec-ch-ua-platform
+    value: '"Linux"'
+authentication: {}
+metaSortKey: -1652804030379
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

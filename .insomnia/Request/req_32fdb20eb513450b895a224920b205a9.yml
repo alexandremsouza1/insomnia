@@ -1,0 +1,66 @@
+_id: req_32fdb20eb513450b895a224920b205a9
+type: Request
+parentId: fld_ae7d2f3f340243f0b95a30299b3377dc
+modified: 1652809426574
+created: 1652806991482
+url: https://www.centraldamarcasuzano.com.br/painel/wp-json/jwt-auth/v1/token
+name: get token
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: '{"username":"maria.moreira@mobiup.com.br","password":""}'
+parameters: []
+headers:
+  - name: Accept
+    value: "*/*"
+    id: pair_ce8466b63dba4878a804b96f4d680143
+  - name: Accept-Language
+    value: pt-BR,pt;q=0.9
+    id: pair_44a22461ed814224860bea3251ee7f65
+  - name: Connection
+    value: keep-alive
+    id: pair_dcf397e93f004dd98df8c4ef3a37c5a5
+  - name: Content-Type
+    value: application/json
+    id: pair_a887b253c4cb4b95ae3731aa6b3f8eb1
+  - name: Origin
+    value: https://www.centraldamarcasuzano.com.br
+    id: pair_aaaf3201c139412da708b83d05cac96b
+  - name: Referer
+    value: https://www.centraldamarcasuzano.com.br/login/login.html
+    id: pair_6cfb083edefa49f482989d39024281ae
+  - name: Sec-Fetch-Dest
+    value: empty
+    id: pair_48707284b54f492185a8ef1d2b39f147
+  - name: Sec-Fetch-Mode
+    value: cors
+    id: pair_c5235a99111745c18320a6002c781f99
+  - name: Sec-Fetch-Site
+    value: same-origin
+    id: pair_22b6a4c51e874ed2aea104a0c01725db
+  - name: User-Agent
+    value: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko)
+      Chrome/100.0.4896.127 Safari/537.36
+    id: pair_1f637fb869d745689ec4166aa3a00480
+  - name: X-Requested-With
+    value: XMLHttpRequest
+    id: pair_be1321498d524927a7ad3143b01b21c5
+  - name: sec-ch-ua
+    value: '" Not A;Brand";v="99", "Chromium";v="100", "Google Chrome";v="100"'
+    id: pair_c78e9af5cd8c437bbde39121afd7cee0
+  - name: sec-ch-ua-mobile
+    value: ?0
+    id: pair_7c134630e8374d87bc9d895d2dc6ce9d
+  - name: sec-ch-ua-platform
+    value: '"Linux"'
+    id: pair_fd301851967c4332986f19bea228a0e2
+authentication: {}
+metaSortKey: -1652806991482
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

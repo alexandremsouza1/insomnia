@@ -1,0 +1,65 @@
+_id: req_c9d9792ea1e044d3bcdda7bd5f4f0216
+type: Request
+parentId: wrk_5daeab26c02b4e49830721e89570c6d6
+modified: 1652809318929
+created: 1652721434507
+url: https://www.centraldamarcasuzano.com.br/painel/wp-json/api/pages/materiais-do-dia-a-dia
+name: https://www.centraldamarcasuzano.com.br/painel/wp-json/api/pages/materiais-do-dia-a-dia
+description: ""
+method: GET
+body: {}
+parameters:
+  - name: lang
+    value: en
+    disabled: false
+    id: pair_054acfb3c6a64c629a25a23dbdc7ede4
+headers:
+  - name: Accept
+    value: "*/*"
+    id: pair_b1a68bfe38e0435ca3a15e9003416d86
+  - name: Accept-Language
+    value: pt-BR,pt;q=0.9
+    id: pair_a110660c14e74d13b857b11afb37cf4d
+  - name: Connection
+    value: keep-alive
+    id: pair_a6367ac44be44c23a74e8c80774f1d2e
+  - name: Cookie
+    value: qtrans_front_language=en;
+      insuzanobc_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvd3d3LmNlbnRyYWxkYW1hcmNhc3V6YW5vLmNvbS5iclwvcGFpbmVsIiwiaWF0IjoxNjUyNzIwMjMxLCJuYmYiOjE2NTI3MjAyMzEsImV4cCI6MTY1MzMyNTAzMSwiZGF0YSI6eyJ1c2VyIjp7ImlkIjoiNDcwIn19fQ.CSeVOiekRTLEdPCQbXvGIuIiWJRBbNHkLB-gNPQe30U;
+      insuzanobc_user={%22token%22:%22eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvd3d3LmNlbnRyYWxkYW1hcmNhc3V6YW5vLmNvbS5iclwvcGFpbmVsIiwiaWF0IjoxNjUyNzIwMjMxLCJuYmYiOjE2NTI3MjAyMzEsImV4cCI6MTY1MzMyNTAzMSwiZGF0YSI6eyJ1c2VyIjp7ImlkIjoiNDcwIn19fQ.CSeVOiekRTLEdPCQbXvGIuIiWJRBbNHkLB-gNPQe30U%22%2C%22user_email%22:%22maria.moreira@mobiup.com.br%22%2C%22user_nicename%22:%22maria-moreira%22%2C%22user_display_name%22:%22maria.moreira%22%2C%22name%22:%22Maria%20Luisa%22}
+    id: pair_a57d05b77b254fffa152c3d6af4be185
+    disabled: false
+  - name: Referer
+    value: https://www.centraldamarcasuzano.com.br/en/materiais-do-dia-a-dia
+    id: pair_6c8fe9bd1c7d4675a7820d14ab161796
+  - name: Sec-Fetch-Dest
+    value: empty
+    id: pair_632294165181408db395487d6e87ec4e
+  - name: Sec-Fetch-Mode
+    value: cors
+    id: pair_9515437458174a1eb4ef97cd7d380589
+  - name: Sec-Fetch-Site
+    value: same-origin
+    id: pair_600b9de041ee4181baceecfdea9e8755
+  - name: User-Agent
+    value: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko)
+      Chrome/100.0.4896.127 Safari/537.36
+    id: pair_a4ddfeb2ee6845abb8e91fe144ff4cdc
+  - name: sec-ch-ua
+    value: '" Not A;Brand";v="99", "Chromium";v="100", "Google Chrome";v="100"'
+    id: pair_94a011b7c8d248d1859a7c21330e35a8
+  - name: sec-ch-ua-mobile
+    value: ?0
+    id: pair_fab2869b3e444d348619259a3ecf3022
+  - name: sec-ch-ua-platform
+    value: '"Linux"'
+    id: pair_1bb954d71f7f44f1b50e09735b2a2b62
+authentication: {}
+metaSortKey: -1652721434507
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

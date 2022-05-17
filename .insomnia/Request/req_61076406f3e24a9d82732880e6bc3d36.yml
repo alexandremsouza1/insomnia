@@ -1,0 +1,41 @@
+_id: req_61076406f3e24a9d82732880e6bc3d36
+type: Request
+parentId: wrk_5daeab26c02b4e49830721e89570c6d6
+modified: 1652727667998
+created: 1652726007162
+url: http://localhost:8081/wp-json/api/general
+name: My Request2
+description: ""
+method: GET
+body: {}
+parameters:
+  - name: lang
+    value: pt
+    disabled: false
+    id: pair_6954c148d90e4b9fa0b3b518c8bd1463
+headers:
+  - name: sec-ch-ua
+    value: '" Not A;Brand";v="99", "Chromium";v="100", "Google Chrome";v="100"'
+    id: pair_7f7615cdaa9940f3b7edc1895267c9e5
+  - name: Referer
+    value: https://www.centraldamarcasuzano.com.br/pt
+    id: pair_a04423ae001e4a89966393a02f7b7135
+  - name: sec-ch-ua-mobile
+    value: ?0
+    id: pair_b375fb9d88c9494694cecd0e8b0981c2
+  - name: User-Agent
+    value: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko)
+      Chrome/100.0.4896.127 Safari/537.36
+    id: pair_7099ba4250b04c31be8c0f75a80da9b3
+  - name: sec-ch-ua-platform
+    value: '"Linux"'
+    id: pair_567615ef831e4f0f8bd8ca3114494de8
+authentication: {}
+metaSortKey: -1652726007162
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

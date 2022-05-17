@@ -1,0 +1,70 @@
+_id: req_2160990aabb34b799a85bed79a8afc99
+type: Request
+parentId: fld_ae7d2f3f340243f0b95a30299b3377dc
+modified: 1652812765549
+created: 1652809334112
+url: https://www.centraldamarcasuzano.com.br/painel/wp-json/jwt-auth/v1/token
+name: login
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: '{"username":"maria.moreira@mobiup.com.br","password":"_7f530806756993781a06642b40590afd7b239b15d2"}'
+parameters: []
+headers:
+  - name: Accept
+    value: "*/*"
+    id: pair_d8be09bce56949a783c16038100cbd62
+  - name: Accept-Language
+    value: pt-BR,pt;q=0.9
+    id: pair_e5cc2226d4834178b2cac689429e4f07
+  - name: Connection
+    value: keep-alive
+    id: pair_91a2097c28b44dcb965ca482d3acefc1
+  - name: Content-Type
+    value: application/json
+    id: pair_04101443272245a8829366186e19ab72
+  - name: Cookie
+    value: qtrans_front_language=pb; PHPSESSID=8911ae365ca50c3acebe07dccfa7e044;
+      SimpleSAMLAuthToken=_40dcedefb6944ef42c0a90e267caaccb882daa7c40
+    id: pair_bc187dee6a46477282fbabb330c50f9f
+  - name: Origin
+    value: https://www.centraldamarcasuzano.com.br
+    id: pair_94a8a69819894694b6a671e11f4e775a
+  - name: Referer
+    value: https://www.centraldamarcasuzano.com.br/login/login.html
+    id: pair_c7759a232de342aa9a34c753a9874d27
+  - name: Sec-Fetch-Dest
+    value: empty
+    id: pair_292725aac87845248e5c2a95cd62f985
+  - name: Sec-Fetch-Mode
+    value: cors
+    id: pair_db69ab8d96ac4bc5b33e2365ec76034d
+  - name: Sec-Fetch-Site
+    value: same-origin
+    id: pair_8275280d81004cd38729561f8f9c68c2
+  - name: User-Agent
+    value: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko)
+      Chrome/100.0.4896.127 Safari/537.36
+    id: pair_088f07ce8d1f4de7a76134b4ca811a9c
+  - name: X-Requested-With
+    value: XMLHttpRequest
+    id: pair_1d9f463b0a6b46d69ad7d8385562b7fa
+  - name: sec-ch-ua
+    value: '" Not A;Brand";v="99", "Chromium";v="100", "Google Chrome";v="100"'
+    id: pair_d52142b45d634baa8cddafd9a7b118cb
+  - name: sec-ch-ua-mobile
+    value: ?0
+    id: pair_0b6594b8fa8f4dc3b56965b2b006603f
+  - name: sec-ch-ua-platform
+    value: '"Linux"'
+    id: pair_f822bceb7f2c40f49be1e850723fcd25
+authentication: {}
+metaSortKey: -1652809334112
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

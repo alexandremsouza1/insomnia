@@ -1,0 +1,71 @@
+_id: req_099256dd3eb647aaa825493db550733d
+type: Request
+parentId: wrk_5daeab26c02b4e49830721e89570c6d6
+modified: 1652809322846
+created: 1652793090983
+url: https://www.centraldamarcasuzano.com.br/painel/wp-json/jwt-auth/v1/token/validate
+name: My Request3
+description: ""
+method: POST
+body: {}
+parameters: []
+headers:
+  - name: Accept
+    value: "*/*"
+    id: pair_b0e2b2eea11d405d834eee1c71dbdf0a
+  - name: Accept-Language
+    value: pt-BR,pt;q=0.9
+    id: pair_1f0aabd92c1f4412a82a3fc24b502ac5
+  - name: Authorization
+    value: Bearer
+      eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvd3d3LmNlbnRyYWxkYW1hcmNhc3V6YW5vLmNvbS5iclwvcGFpbmVsIiwiaWF0IjoxNjUyNzkyODcwLCJuYmYiOjE2NTI3OTI4NzAsImV4cCI6MTY1MzM5NzY3MCwiZGF0YSI6eyJ1c2VyIjp7ImlkIjoiNDcwIn19fQ.ebOxThL_0UUGmpYBxRSM8fw0nXJqGVUtrO6VxeB_A3I
+    id: pair_c173b14d5822435e943607fe9e86e70c
+    disabled: false
+  - name: Connection
+    value: keep-alive
+    id: pair_0f34dcfa1d584953a3db9c2915c35be8
+  - name: Content-Length
+    value: "0"
+    id: pair_39292889ee2f4becb0adfb667ced8e7b
+  - name: Cookie
+    value: qtrans_front_language=pb; PHPSESSID=a89df011a2e9b59051bae759cc1636d8;
+      insuzanobc_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvd3d3LmNlbnRyYWxkYW1hcmNhc3V6YW5vLmNvbS5iclwvcGFpbmVsIiwiaWF0IjoxNjUyNzkyODcwLCJuYmYiOjE2NTI3OTI4NzAsImV4cCI6MTY1MzM5NzY3MCwiZGF0YSI6eyJ1c2VyIjp7ImlkIjoiNDcwIn19fQ.ebOxThL_0UUGmpYBxRSM8fw0nXJqGVUtrO6VxeB_A3I;
+      insuzanobc_user={%22token%22:%22eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvd3d3LmNlbnRyYWxkYW1hcmNhc3V6YW5vLmNvbS5iclwvcGFpbmVsIiwiaWF0IjoxNjUyNzkyODcwLCJuYmYiOjE2NTI3OTI4NzAsImV4cCI6MTY1MzM5NzY3MCwiZGF0YSI6eyJ1c2VyIjp7ImlkIjoiNDcwIn19fQ.ebOxThL_0UUGmpYBxRSM8fw0nXJqGVUtrO6VxeB_A3I%22%2C%22user_email%22:%22maria.moreira@mobiup.com.br%22%2C%22user_nicename%22:%22maria-moreira%22%2C%22user_display_name%22:%22maria.moreira%22%2C%22name%22:%22Maria%20Luisa%22}
+    id: pair_d1e431acca374b23873a3c42421bba94
+  - name: Origin
+    value: https://www.centraldamarcasuzano.com.br
+    id: pair_be450d4bfdcf4e8eb6077bec3ab59b84
+  - name: Referer
+    value: https://www.centraldamarcasuzano.com.br/login/
+    id: pair_6b159b381d2c4d5dab8d9a4485e5fc23
+  - name: Sec-Fetch-Dest
+    value: empty
+    id: pair_6f01a53d0e2747bca901e482e136e8cc
+  - name: Sec-Fetch-Mode
+    value: cors
+    id: pair_4d49220701b64ad78ccd721b693de3d7
+  - name: Sec-Fetch-Site
+    value: same-origin
+    id: pair_c2b988eec1ed4d19a68df1e773866d8d
+  - name: User-Agent
+    value: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko)
+      Chrome/100.0.4896.127 Safari/537.36
+    id: pair_320115366c6f45bca70b407ff1fc1691
+  - name: sec-ch-ua
+    value: '" Not A;Brand";v="99", "Chromium";v="100", "Google Chrome";v="100"'
+    id: pair_446c01fce85c4326a1a222d90047455c
+  - name: sec-ch-ua-mobile
+    value: ?0
+    id: pair_085e3863c89f4ce18bacd1736dc95968
+  - name: sec-ch-ua-platform
+    value: '"Linux"'
+    id: pair_fda57c94cc5d49938ed14f9e44a59d16
+authentication: {}
+metaSortKey: -1652793090983
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

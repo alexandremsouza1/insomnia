@@ -1,0 +1,78 @@
+_id: req_c9042f035a024ef4ba5d0bf760f1c932
+type: Request
+parentId: wrk_5daeab26c02b4e49830721e89570c6d6
+modified: 1652805867718
+created: 1652805820001
+url: https://www.centraldamarcasuzano.com.br/painel/wp-admin/admin-ajax.php
+name: My Rrequest5
+description: ""
+method: POST
+body:
+  mimeType: application/x-www-form-urlencoded
+  params:
+    - name: action
+      value: forms_setuser
+      id: pair_2b1e26a54f784d45b2021e6a2f622a99
+    - name: email
+      value: maria.moreira@mobiup.com.br
+      id: pair_2c09d3f185de49adad3cff0e3ede5cc0
+    - name: token
+      value: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczpcL1wvd3d3LmNlbnRyYWxkYW1hcmNhc3V6YW5vLmNvbS5iclwvcGFpbmVsIiwiaWF0IjoxNjUyODA1NjU4LCJuYmYiOjE2NTI4MDU2NTgsImV4cCI6MTY1MzQxMDQ1OCwiZGF0YSI6eyJ1c2VyIjp7ImlkIjoiNDcwIn19fQ.Ny6GOdyvJby6tfhU1XVl_sRuQp6AmHBgr01bI8H2f30
+      id: pair_80d201fd7c9149ce899945d4a95f7bda
+parameters: []
+headers:
+  - name: Accept
+    value: "*/*"
+    id: pair_f8545fcbd0714cadbc7236762a522c2f
+  - name: Accept-Language
+    value: pt-BR,pt;q=0.9
+    id: pair_7b5cf7f8b8e44fb0a5aa056309c39fe1
+  - name: Connection
+    value: keep-alive
+    id: pair_cb2e0c03dedf4239bba1d55f35d74438
+  - name: Content-Type
+    value: application/x-www-form-urlencoded; charset=UTF-8
+    id: pair_ebf3c83231b14409949acc53c765c0c6
+  - name: Cookie
+    value: qtrans_front_language=pb
+    id: pair_793b66254349459e9fd5d664ddcc96e7
+  - name: Origin
+    value: https://www.centraldamarcasuzano.com.br
+    id: pair_75c26525fa6a4aa6a0c29f3ff8855f38
+  - name: Referer
+    value: https://www.centraldamarcasuzano.com.br/login/login.html
+    id: pair_62d65c861d1a4192849f86b5b35a8a44
+  - name: Sec-Fetch-Dest
+    value: empty
+    id: pair_db1137167f8b400fb90ea1096f6b812f
+  - name: Sec-Fetch-Mode
+    value: cors
+    id: pair_bdd30f34598048a0b5aeefcf918f1bb7
+  - name: Sec-Fetch-Site
+    value: same-origin
+    id: pair_b30efbbb8af944c4ab295fe20b823778
+  - name: User-Agent
+    value: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko)
+      Chrome/100.0.4896.127 Safari/537.36
+    id: pair_19f1c6c9cbb9458dbe76eb0946551c04
+  - name: X-Requested-With
+    value: XMLHttpRequest
+    id: pair_fce12f32434e4f9a97cbde15b69eb7d3
+  - name: sec-ch-ua
+    value: '" Not A;Brand";v="99", "Chromium";v="100", "Google Chrome";v="100"'
+    id: pair_d5ed7e114d8b42d68b90c651309c3a7d
+  - name: sec-ch-ua-mobile
+    value: ?0
+    id: pair_2ebce1374c2a401e86f11cfac2c25421
+  - name: sec-ch-ua-platform
+    value: '"Linux"'
+    id: pair_d4837f05eda24bc8bd607a6f64fff918
+authentication: {}
+metaSortKey: -1652805820001
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
